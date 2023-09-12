@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.frame1{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('https://startbootstrap.github.io/startbootstrap-clean-blog/assets/img/home-bg.jpg'); 
+height: 70vh;
+background-repeat: no-repeat;
+background-position: center;
+position: relative;
+background-size: cover;
+
+}
+.div1{
+    position: absolute;
+    top: 210px;
+    left:480px;
+    text-align: center;
+}
+.hdg1{
+    font-size: 75px;
+    font-weight: bold;
+    color: white;
+}
+.hdg2{
+    font-weight: lighter;
+    color: white;
+}
+.a1{
+  font-size: 40px; 
+  text-decoration: none; 
+  font-weight: bold;
+  color: black;
+  font-family:serif
+}
+.a1:hover{
+    color: rgb(51, 120, 147);
+
+}
+.a2{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    font-weight: lighter;
+    
+    
+}
+.a2:hover{
+    color:rgb(51, 120, 147) ;
+}
+.hdg3{
+    color: rgb(110, 104, 104);
+    font-family: sans-serif;
+}
+.div4{
+    height: 10vh;
+}
+.btn1{
+    border-radius: 100px;
+    height: 60px;
+    width: 60px;
+    color: white;
+    background-color: rgb(31, 30, 30);
+    border-radius: none;
+    font-size: 25px;
+    
+    
+}
+.div2{
+    border-top: 1px solid rgb(239, 230, 230);
+    height: 20vh;
+}
